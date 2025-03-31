@@ -22,6 +22,7 @@
 - **Yêu cầu hoàn tiền/đổi trả**: Khách hàng gửi yêu cầu nếu sản phẩm có vấn đề.
 - **Sử dụng mã giảm giá/voucher**: Khách hàng áp dụng mã khuyến mãi khi thanh toán.
 - **Chat với người bán**: Khách hàng liên lạc trực tiếp với người bán để hỏi thông tin.
+  
 #### 2. Use Case của Người bán:
 - **Đăng ký tài khoản người bán**: Người bán tạo tài khoản để bắt đầu kinh doanh.
 - **Đăng nhập**: Người bán truy cập vào hệ thống quản lý shop.
@@ -32,7 +33,6 @@
 - **Chat với khách hàng**: Người bán trả lời thắc mắc hoặc hỗ trợ khách.
 - **Quản lý doanh thu**: Người bán xem thống kê doanh thu và lợi nhuận.
 - **Tạo chương trình khuyến mãi**: Người bán thiết lập giảm giá hoặc voucher cho sản phẩm.
-=> **Số lượng: 9 use case**
 
 #### 3. Use Case của Admin (Quản trị viên):
 - **Quản lý tài khoản người dùng**: Admin kiểm tra, khóa, hoặc kích hoạt tài khoản khách hàng/người bán.
@@ -43,7 +43,6 @@
 #### 4. Use Case liên quan đến Hệ thống bên ngoài:
 - **Xử lý thanh toán**: Hệ thống cổng thanh toán (ví dụ: ShopeePay, ngân hàng) xác nhận giao dịch.
 - **Cập nhật trạng thái vận chuyển**: Hệ thống logistics thông báo trạng thái giao hàng.
-=> **Số lượng: 2 use case**
 
 ---
 
